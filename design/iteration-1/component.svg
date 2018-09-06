@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="272px" preserveAspectRatio="none" style="width:350px;height:272px;" version="1.1" viewBox="0 0 350 272" width="350px" zoomAndPan="magnify"><defs><filter height="300%" id="f12domwhqogmev" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><path d="M66,23 C66,20 68,18 71,18 C74,18 76,20 76,23 C76,20 78,18 81,18 C84,18 86,20 86,23 C86,20 88,18 91,18 C94,18 96,20 96,23 C96,20 98,18 101,18 C104,18 106,20 106,23 C106,20 108,18 111,18 C114,18 116,20 116,23 C116,20 118,18 121,18 C124,18 126,20 126,23 C129,23 131,25 131,28 C131,31 129,33 126,33 C129,33 131,35 131,38 C131,41 129,43 126,43 C129,43 131,45 131,48 C131,51 129,53 126,53 C129,53 131,55 131,58 C131,61 129,63 126,63 C126,66 123,68 121,68 C118,68 116,66 116,63 C116,66 113,68 111,68 C108,68 106,66 106,63 C106,66 103,68 101,68 C98,68 96,66 96,63 C96,66 93,68 91,68 C88,68 86,66 86,63 C86,66 83,68 81,68 C78,68 76,66 76,63 C76,66 73,68 71,68 C68,68 66,66 66,63 C63,63 61,61 61,58 C61,55 63,53 66,53 C63,53 61,51 61,48 C61,45 63,43 66,43 C63,43 61,41 61,38 C61,35 63,33 66,33 C63,33 61,31 61,28 C61,25 63,23 66,23 " fill="#FFFFFF" filter="url(#f12domwhqogmev)" style="stroke: #000000; stroke-width: 1.5;"/><!--cluster API Bookmarks--><polygon fill="#FFFFFF" filter="url(#f12domwhqogmev)" points="14,93,130,93,137,115.4883,180,115.4883,180,164,14,164,14,93" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="14" x2="137" y1="115.4883" y2="115.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="110" x="18" y="108.5352">API Bookmarks</text><!--cluster Bookmarks--><polygon fill="#FFFFFF" filter="url(#f12domwhqogmev)" points="188,102,275,102,282,124.4883,328,124.4883,328,260,188,260,188,102" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="188" x2="282" y1="124.4883" y2="124.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="81" x="192" y="117.5352">Bookmarks</text><!--entity User--><rect fill="#FEFECE" filter="url(#f12domwhqogmev)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="51" x="71.5" y="24"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="66.5" y="29"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="66.5" y="50.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="31" x="81.5" y="47.5352">User</text><!--entity API List Bookmarks--><rect fill="#FEFECE" filter="url(#f12domwhqogmev)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="149" x="22.5" y="120"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="17.5" y="125"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="17.5" y="146.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="129" x="32.5" y="143.5352">API List Bookmarks</text><!--entity execute--><ellipse cx="237" cy="138" fill="#FEFECE" filter="url(#f12domwhqogmev)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="54" x="210" y="168.5352">execute</text><!--entity List Bookmarks--><rect fill="#FEFECE" filter="url(#f12domwhqogmev)" height="36.4883" style="stroke: #A80036; stroke-width: 1.5;" width="123" x="196.5" y="216"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="191.5" y="221"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="191.5" y="242.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="103" x="206.5" y="239.5352">List Bookmarks</text><!--link execute to List Bookmarks--><path d="M239.0136,147.2049 C242.4629,162.9733 249.5618,195.4252 254.0346,215.8726 " fill="none" id="execute-List Bookmarks" style="stroke: #A80036; stroke-width: 1.0;"/><!--link API List Bookmarks to execute--><path d="M171.6484,138 C188.6139,138 205.5793,138 222.5448,138 " fill="none" id="API List Bookmarks-execute" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="227.8099,138,218.8099,134,222.8099,138,218.8099,142,227.8099,138" style="stroke: #A80036; stroke-width: 1.0;"/><!--link User to API List Bookmarks--><path d="M97,60.0569 C97,75.5126 97,97.8647 97,114.6731 " fill="none" id="User-API List Bookmarks" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="97,119.6977,101,110.6977,97,114.6977,93,110.6977,97,119.6977" style="stroke: #A80036; stroke-width: 1.0;"/><!--
+@startuml
+
+cloud {
+    [User]
+}
+
+package "API Bookmarks" {
+    [API List Bookmarks]
+}
+
+package Bookmarks {
+    execute - - [List Bookmarks]
+}
+
+
+[API List Bookmarks] .> execute
+[User] - -> [API List Bookmarks]
+
+
+@enduml
+
+PlantUML version 1.2018.09(Fri Jul 27 18:58:18 CEST 2018)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_152-release-1248-b8
+Operating System: Mac OS X
+OS Version: 10.13.5
+Default Encoding: UTF-8
+Language: en
+Country: NL
+--></g></svg>
