@@ -1,4 +1,4 @@
-# Iteration 0
+# Ideas
 
 Below are gathered ideas for the project that are too broad or too many to be picked up immediately in the first iteration, or that might not be implemented at all in the future.
 
